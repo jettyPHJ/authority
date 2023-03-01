@@ -1,0 +1,14 @@
+com\gsd\system\domain\SysConfig.class
+com\gsd\system\service\impl\SysRoleServiceImpl.class
+com\gsd\system\domain\vo\RouterVo.class
+com\gsd\system\mapper\SysUserMapper.class
+com\gsd\system\mapper\SysUserRoleMapper.class
+com\gsd\system\service\ISysMenuService.class
+com\gsd\system\mapper\SysMenuMapper.class
+com\gsd\system\service\ISysUserService.class
+com\gsd\system\service\ISysRoleService.class
+com\gsd\system\domain\SysUserRole.class
+com\gsd\system\service\impl\SysUserServiceImpl.class
+com\gsd\system\mapper\SysRoleMapper.class
+com\gsd\system\service\impl\SysMenuServiceImpl.class
+com\gsd\system\domain\vo\MetaVo.class

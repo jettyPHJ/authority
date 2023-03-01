@@ -1,0 +1,7 @@
+com\gsd\controller\system\SysRegisterController.class
+com\gsd\controller\common\CaptchaController.class
+com\gsd\controller\HelloController.class
+com\gsd\AuthorityApplication.class
+com\gsd\controller\system\SysUserController.class
+com\gsd\controller\SysUserController.class
+com\gsd\controller\system\SysLoginController.class

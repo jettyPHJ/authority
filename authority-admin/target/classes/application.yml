@@ -1,0 +1,19 @@
+mybatis:
+  type-aliases-package: com.gsd.**.domain
+  mapper-locations: classpath*:mapper/**/*Mapper.xml
+spring:
+  profiles:
+    active: druid
+  redis:
+    host: 51.205.0.249
+    port: 6379
+    password:
+    timeout: 10s
+    database: 0
+
+
+token:
+  header: Authorization
+  secret: asfasgfsdgasdfdsa.sh.tdh
+  expireTime: 30
+
